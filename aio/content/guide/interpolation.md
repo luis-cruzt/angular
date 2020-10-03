@@ -1,4 +1,4 @@
-# Interpolation and template expressions
+# Expresiones de interpolación y plantilla
 
 La interpolación le permite incorporar cadenas calculadas en el texto entre etiquetas de elementos HTML y dentro de las asignaciones de atributos. Las expresiones de plantilla son lo que tu usas para calcular esas cadenas.
 
